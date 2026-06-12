@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-aura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caught In Your Aura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-aura/) |
+| **Get License** | [Music Rights & Licensing for Caught In Your Aura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-aura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `60f8341c6c66a8bd23d0682aab3d9c778a51665e342e6b8fa3b59af06a9bd3f2` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caught In Your Aura
+
+This log tracks the cryptographic history and versioning for the song **Caught In Your Aura** (caught-in-your-aura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T00:43:14.548710 | `v1` | `60f8341c6c66a8bd23d0682aab3d9c778a51665e342e6b8fa3b59af06a9bd3f2` | `ff53350ab2be1fbe9cf4d89b9d07003c7d242e828198a2f21caa0f4581c0eea6` | `2026-06-13_caught-in-your-aura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
