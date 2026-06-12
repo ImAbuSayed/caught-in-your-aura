@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-aura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Caught In Your Aura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-aura/) |
+| **Get License** | [Request Licensing for Caught In Your Aura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-aura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I am lost inside the light that you are glowing
+> Got me caught in your aura, and it's showing
+> Every shadow in the room just fades to nothing
+> When you pull me close and turn this into something
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
